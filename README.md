@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning Blockchain development 
 - 💞️ I’m looking to collaborate on anything awesome
 - 📫 How to reach me - my twitter is @amalnair2k
 
