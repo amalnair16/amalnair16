@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Blockchain development 
+- 🌱 I’m currently learning Machine Learning & AI  
 - 💞️ I’m looking to collaborate on anything awesome
-- 📫 How to reach me - my twitter is @amalnair2k
+- 📫 How to reach me - my Twitter is @amalnair2k
 
 <!---
 amalnair16/amalnair16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
